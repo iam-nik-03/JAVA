@@ -6,6 +6,7 @@ public class Alphabet{
             for (int alpha = 1; alpha <= line; alpha++) {
                 System.out.print(ch);
                 ch++;
+                
             }
             System.out.println();
         }
